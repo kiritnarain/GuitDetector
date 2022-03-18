@@ -1,0 +1,186 @@
+{"info": {
+"year": 2022,
+"date_created": "2022-03-02T21:56:56Z",
+"version": "1.0",
+"description": "Guitar marks Guitar fret circles",
+"contributor": "",
+"url": "https://app.hasty.ai/projects/2ec2ea1e-8959-4f71-8e95-92bedf0befe5"
+}, "licenses": [], "categories": [{
+"id": 1,
+"name": "inlay",
+"supercategory": "object"
+}], "images": [{
+"id": 1,
+"width": 4080,
+"height": 3072,
+"file_name": "PXL_20220318_014313352.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:36:41Z"
+}, {
+"id": 2,
+"width": 1280,
+"height": 720,
+"file_name": "WIN_20220317_19_09_04_Pro.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:14:31Z"
+}], "annotations": [{
+"id": 0,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 169,
+"bbox": [
+429,
+164,
+13,
+13
+],
+"iscrowd": 0
+}, {
+"id": 1,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 117,
+"bbox": [
+426,
+253,
+13,
+9
+],
+"iscrowd": 0
+}, {
+"id": 2,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 135,
+"bbox": [
+422,
+330,
+9,
+15
+],
+"iscrowd": 0
+}, {
+"id": 3,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 234,
+"bbox": [
+391,
+439,
+18,
+13
+],
+"iscrowd": 0
+}, {
+"id": 4,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 195,
+"bbox": [
+435,
+437,
+13,
+15
+],
+"iscrowd": 0
+}, {
+"id": 5,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 247,
+"bbox": [
+405,
+530,
+19,
+13
+],
+"iscrowd": 0
+}, {
+"id": 6,
+"image_id": 1,
+"category_id": 1,
+"segmentation": null,
+"area": 3250,
+"bbox": [
+2990,
+1674,
+65,
+50
+],
+"iscrowd": 0
+}, {
+"id": 7,
+"image_id": 1,
+"category_id": 1,
+"segmentation": null,
+"area": 2856,
+"bbox": [
+2597,
+1568,
+56,
+51
+],
+"iscrowd": 0
+}, {
+"id": 8,
+"image_id": 1,
+"category_id": 1,
+"segmentation": null,
+"area": 3136,
+"bbox": [
+2597,
+1764,
+56,
+56
+],
+"iscrowd": 0
+}, {
+"id": 9,
+"image_id": 1,
+"category_id": 1,
+"segmentation": null,
+"area": 3355,
+"bbox": [
+2129,
+1659,
+61,
+55
+],
+"iscrowd": 0
+}, {
+"id": 10,
+"image_id": 1,
+"category_id": 1,
+"segmentation": null,
+"area": 2250,
+"bbox": [
+1797,
+1654,
+50,
+45
+],
+"iscrowd": 0
+}, {
+"id": 11,
+"image_id": 1,
+"category_id": 1,
+"segmentation": null,
+"area": 2550,
+"bbox": [
+1399,
+1644,
+51,
+50
+],
+"iscrowd": 0
+}]}

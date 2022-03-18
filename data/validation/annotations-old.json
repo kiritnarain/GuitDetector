@@ -1,0 +1,369 @@
+{"info": {
+"year": 2022,
+"date_created": "2022-03-02T21:56:56Z",
+"version": "1.0",
+"description": "Guitar marks Guitar fret circles",
+"contributor": "",
+"url": "https://app.hasty.ai/projects/2ec2ea1e-8959-4f71-8e95-92bedf0befe5"
+}, "licenses": [], "categories": [{
+"id": 1,
+"name": "inlay",
+"supercategory": "object"
+}], "images": [{
+"id": 1,
+"width": 4080,
+"height": 3072,
+"file_name": "PXL_20220318_014313352.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:36:41Z"
+}, {
+"id": 2,
+"width": 1280,
+"height": 720,
+"file_name": "WIN_20220317_19_09_04_Pro.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:14:31Z"
+}, {
+"id": 3,
+"width": 1280,
+"height": 720,
+"file_name": "WIN_20220317_19_09_28_Pro.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:14:31Z"
+}, {
+"id": 4,
+"width": 1280,
+"height": 720,
+"file_name": "WIN_20220317_19_11_52_Pro.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:14:31Z"
+}, {
+"id": 5,
+"width": 1280,
+"height": 720,
+"file_name": "WIN_20220317_19_12_30_Pro.jpg",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2022-03-18T02:14:31Z"
+}], "annotations": [{
+"id": 0,
+"image_id": 3,
+"category_id": 1,
+"segmentation": null,
+"area": 195,
+"bbox": [
+931,
+356,
+15,
+13
+],
+"iscrowd": 0
+}, {
+"id": 1,
+"image_id": 3,
+"category_id": 1,
+"segmentation": null,
+"area": 121,
+"bbox": [
+854,
+410,
+11,
+11
+],
+"iscrowd": 0
+}, {
+"id": 2,
+"image_id": 3,
+"category_id": 1,
+"segmentation": null,
+"area": 165,
+"bbox": [
+780,
+450,
+15,
+11
+],
+"iscrowd": 0
+}, {
+"id": 3,
+"image_id": 3,
+"category_id": 1,
+"segmentation": null,
+"area": 240,
+"bbox": [
+679,
+489,
+16,
+15
+],
+"iscrowd": 0
+}, {
+"id": 4,
+"image_id": 3,
+"category_id": 1,
+"segmentation": null,
+"area": 208,
+"bbox": [
+699,
+532,
+16,
+13
+],
+"iscrowd": 0
+}, {
+"id": 5,
+"image_id": 3,
+"category_id": 1,
+"segmentation": null,
+"area": 128,
+"bbox": [
+616,
+561,
+16,
+8
+],
+"iscrowd": 0
+}, {
+"id": 6,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 169,
+"bbox": [
+429,
+164,
+13,
+13
+],
+"iscrowd": 0
+}, {
+"id": 7,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 117,
+"bbox": [
+426,
+253,
+13,
+9
+],
+"iscrowd": 0
+}, {
+"id": 8,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 135,
+"bbox": [
+422,
+330,
+9,
+15
+],
+"iscrowd": 0
+}, {
+"id": 9,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 234,
+"bbox": [
+391,
+439,
+18,
+13
+],
+"iscrowd": 0
+}, {
+"id": 10,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 195,
+"bbox": [
+435,
+437,
+13,
+15
+],
+"iscrowd": 0
+}, {
+"id": 11,
+"image_id": 2,
+"category_id": 1,
+"segmentation": null,
+"area": 247,
+"bbox": [
+405,
+530,
+19,
+13
+],
+"iscrowd": 0
+}, {
+"id": 12,
+"image_id": 4,
+"category_id": 1,
+"segmentation": null,
+"area": 323,
+"bbox": [
+992,
+378,
+17,
+19
+],
+"iscrowd": 0
+}, {
+"id": 13,
+"image_id": 4,
+"category_id": 1,
+"segmentation": null,
+"area": 88,
+"bbox": [
+911,
+419,
+8,
+11
+],
+"iscrowd": 0
+}, {
+"id": 14,
+"image_id": 4,
+"category_id": 1,
+"segmentation": null,
+"area": 162,
+"bbox": [
+830,
+447,
+18,
+9
+],
+"iscrowd": 0
+}, {
+"id": 15,
+"image_id": 4,
+"category_id": 1,
+"segmentation": null,
+"area": 130,
+"bbox": [
+728,
+463,
+13,
+10
+],
+"iscrowd": 0
+}, {
+"id": 16,
+"image_id": 4,
+"category_id": 1,
+"segmentation": null,
+"area": 220,
+"bbox": [
+743,
+502,
+20,
+11
+],
+"iscrowd": 0
+}, {
+"id": 17,
+"image_id": 4,
+"category_id": 1,
+"segmentation": null,
+"area": 121,
+"bbox": [
+662,
+513,
+11,
+11
+],
+"iscrowd": 0
+}, {
+"id": 18,
+"image_id": 5,
+"category_id": 1,
+"segmentation": null,
+"area": 336,
+"bbox": [
+727,
+509,
+16,
+21
+],
+"iscrowd": 0
+}, {
+"id": 19,
+"image_id": 5,
+"category_id": 1,
+"segmentation": null,
+"area": 150,
+"bbox": [
+813,
+493,
+10,
+15
+],
+"iscrowd": 0
+}, {
+"id": 20,
+"image_id": 5,
+"category_id": 1,
+"segmentation": null,
+"area": 143,
+"bbox": [
+817,
+539,
+13,
+11
+],
+"iscrowd": 0
+}, {
+"id": 21,
+"image_id": 5,
+"category_id": 1,
+"segmentation": null,
+"area": 260,
+"bbox": [
+915,
+519,
+20,
+13
+],
+"iscrowd": 0
+}, {
+"id": 22,
+"image_id": 5,
+"category_id": 1,
+"segmentation": null,
+"area": 121,
+"bbox": [
+1000,
+522,
+11,
+11
+],
+"iscrowd": 0
+}, {
+"id": 23,
+"image_id": 5,
+"category_id": 1,
+"segmentation": null,
+"area": 143,
+"bbox": [
+1094,
+521,
+13,
+11
+],
+"iscrowd": 0
+}]}
